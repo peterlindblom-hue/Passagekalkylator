@@ -1,4 +1,4 @@
-const CACHE = 'sliptag-v3';
+const CACHE = 'sliptag-v5';
 const ASSETS = ['./index.html', './manifest.json'];
 
 self.addEventListener('install', e => {
